@@ -11,7 +11,15 @@ I have been working as a data engineer for several years now. However, I was nev
 **Link to Tutorial I am following:** https://www.udemy.com/course/build-wordpress-website-with-the-lowest-cost/learn/lecture/10258738?start=0#overview
 
 
-**Ling(s) to work**: To be updated
+**Ling(s) to work**: poojabhat.com
 
-1.
-2.
+### Day 1: April 26, 2020
+
+**Today's Progress**: Created a static home page for my new website. Hosted it on Dream Host. Customised few modules. Still working on finalizing the design and layout for the content, which is yet to be published.
+
+**Thoughts:** I had difficult time with a poor internet connectivity from the place I was working. Expecting to be more productive once I get this fixed tomorrow
+
+**Link to Tutorial I am following:** https://www.udemy.com/course/build-wordpress-website-with-the-lowest-cost/learn/lecture/10258738?start=0#overview
+
+
+**Ling(s) to work**: poojabhat.com
