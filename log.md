@@ -45,12 +45,12 @@ I have been working as a data engineer for several years now. However, I was nev
 
 ### Day 7: April 30, 2020
 
-**Today's Progress**: Created a section to showcase my project works. Had to make several html code changes to give it very sassy look
+**Today's Progress**: Created a section to showcase my project works. Had to make several html code changes to give it a sassy look
 
 **Thoughts:** Had to look at several other websites on the internet for inspiration
 
 ### Day 8: May 2, 2020
 
-**Today's Progress**: Created a section to showcase my project works. Had to make several html code changes to give it very sassy look
+**Today's Progress**: Dowloaded Bitnami for wordpress to convert my machine into a webserver. Needed this to convert my html site into a theme. Made changes to the wordpress files of a starter theme to create my own theme from the website i was working on 
 
-**Thoughts:** Had to look at several other websites on the internet for inspiration
+**Thoughts:** Went through several tutorials in Youtube to understand how this is done
