@@ -11,7 +11,7 @@ I have been working as a data engineer for several years now. However, I was nev
 **Link to Tutorial I am following:** https://www.udemy.com/course/build-wordpress-website-with-the-lowest-cost/learn/lecture/10258738?start=0#overview
 
 
-**Ling(s) to work**: poojabhat.com
+**Link(s) to work**: poojabhat.com
 
 ### Day 1: April 26, 2020
 
@@ -22,4 +22,10 @@ I have been working as a data engineer for several years now. However, I was nev
 **Link to Tutorial I am following:** https://www.udemy.com/course/build-wordpress-website-with-the-lowest-cost/learn/lecture/10258738?start=0#overview
 
 
-**Ling(s) to work**: poojabhat.com
+**Link(s) to work**: poojabhat.com
+
+### Day 3: April 27, 2020
+
+**Today's Progress**: Created a landing page with cool java script animations. 
+
+**Thoughts:** Had to look at several basic websites on the internet for inspiration
