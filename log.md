@@ -43,8 +43,14 @@ I have been working as a data engineer for several years now. However, I was nev
 
 **Thoughts:** Had to look at several basic websites on the internet for inspiration
 
-### Day 7: April 29, 2020
+### Day 7: April 30, 2020
 
-**Today's Progress**: Created a section to showcase job history, education, certifications and courses attended. Made several changes in stylesheet.css to make it visually appealing 
+**Today's Progress**: Created a section to showcase my project works. Had to make several html code changes to give it very sassy look
 
-**Thoughts:** Had to look at several basic websites on the internet for inspiration
+**Thoughts:** Had to look at several other websites on the internet for inspiration
+
+### Day 8: May 2, 2020
+
+**Today's Progress**: Created a section to showcase my project works. Had to make several html code changes to give it very sassy look
+
+**Thoughts:** Had to look at several other websites on the internet for inspiration
