@@ -29,3 +29,22 @@ I have been working as a data engineer for several years now. However, I was nev
 **Today's Progress**: Created a landing page with cool java script animations. 
 
 **Thoughts:** Had to look at several basic websites on the internet for inspiration
+
+
+### Day 5: April 28, 2020
+
+**Today's Progress**: Created a section to showcase About me and the skillset I have. Made several changes in stylesheet.css to make it visually appealing 
+
+**Thoughts:** Had to look at several basic websites on the internet for inspiration
+
+### Day 6: April 29, 2020
+
+**Today's Progress**: Created a section to showcase job history, education, certifications and courses attended. Made several changes in stylesheet.css to make it visually appealing 
+
+**Thoughts:** Had to look at several basic websites on the internet for inspiration
+
+### Day 7: April 29, 2020
+
+**Today's Progress**: Created a section to showcase job history, education, certifications and courses attended. Made several changes in stylesheet.css to make it visually appealing 
+
+**Thoughts:** Had to look at several basic websites on the internet for inspiration
