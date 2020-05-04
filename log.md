@@ -24,33 +24,47 @@ I have been working as a data engineer for several years now. However, I was nev
 
 **Link(s) to work**: poojabhat.com
 
-### Day 3: April 27, 2020
+### Day 2: April 27, 2020
 
 **Today's Progress**: Created a landing page with cool java script animations. 
 
 **Thoughts:** Had to look at several basic websites on the internet for inspiration
 
 
-### Day 5: April 28, 2020
+### Day 3: April 28, 2020
 
 **Today's Progress**: Created a section to showcase About me and the skillset I have. Made several changes in stylesheet.css to make it visually appealing 
 
 **Thoughts:** Had to look at several basic websites on the internet for inspiration
 
-### Day 6: April 29, 2020
+### Day 4: April 29, 2020
 
 **Today's Progress**: Created a section to showcase job history, education, certifications and courses attended. Made several changes in stylesheet.css to make it visually appealing 
 
 **Thoughts:** Had to look at several basic websites on the internet for inspiration
 
-### Day 7: April 30, 2020
+### Day 5: April 30, 2020
 
 **Today's Progress**: Created a section to showcase my project works. Had to make several html code changes to give it a sassy look
 
 **Thoughts:** Had to look at several other websites on the internet for inspiration
 
-### Day 8: May 2, 2020
+### Day 6: May 2, 2020
 
 **Today's Progress**: Dowloaded Bitnami for wordpress to convert my machine into a webserver. Needed this to convert my html site into a theme. Made changes to the wordpress files of a starter theme to create my own theme from the website i was working on 
 
 **Thoughts:** Went through several tutorials in Youtube to understand how this is done
+
+**Links to Tutorials Referred:** 
+https://www.youtube.com/watch?v=E9YTRLm9SQs
+https://www.youtube.com/watch?v=CZRgvAtwpxw&t=278s
+https://www.elegantthemes.com/blog/tips-tricks/converting-html-sites-to-wordpress-sites
+https://www.dreamhost.com/wordpress/guide-to-developing-a-wp-theme/
+
+**Link to download starter theme:**  underscores.me
+
+### Day 7: May 3, 2020
+
+**Today's Progress**: Adding more content and trying out various layout for project demo
+
+**Thoughts:** Had to look at several other websites on the internet for inspiration
